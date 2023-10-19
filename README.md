@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 💬 Ask me about **JavaScript ,ReactJS , Redux,NodeJS , MongoDB**
+- 💬 Ask me about ** Python , Django , JavaScript ,ReactJS , Redux, Angular , SQL**
 
 - 📫 How to reach me **vaishnav.vr33@gmail.com**
 
